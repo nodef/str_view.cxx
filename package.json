@@ -1,0 +1,25 @@
+{
+  "name": "str_view.cxx",
+  "version": "2.1.1",
+  "description": "Null-termination-aware string-view class for C++; Adam Sawicki (2018).",
+  "keywords": [
+    "c++",
+    "library",
+    "string",
+    "view",
+    "strview",
+    "str_view",
+    "null-termination",
+    "header-only"
+  ],
+  "homepage": "https://github.com/nodef/str_view.cxx#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/str_view.cxx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/str_view.cxx.git"
+  },
+  "license": "MIT",
+  "main": "str_view.h"
+}
